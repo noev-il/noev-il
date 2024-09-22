@@ -1,6 +1,6 @@
 ### What's up, I'm Aux.
 
-I'm currently a senior studying Data Science & Political Science at Boston university.
+I'm currently a senior studying Data Science & Political Science at Boston University.
 
 
 
