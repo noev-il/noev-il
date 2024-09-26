@@ -1,7 +1,7 @@
 ### What's up, I'm Aux.
 
 I'm currently a senior studying Data Science & Political Science at Boston University.
-Talk to me about Music, FinTech, and Confucious!
+Talk to me about Music, the NBA, and Philosophy!
 
 
 
