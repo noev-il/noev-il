@@ -2,7 +2,7 @@
 
 I'm currently a senior studying Data Science & Political Science at Boston University.
 <p>
-  Talk to me about Music, the NBA, and Philosophy!
+  Talk to me about Machine Learning, the Data Science, and Philosophy!
 </p>
 
 
