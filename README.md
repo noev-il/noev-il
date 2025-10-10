@@ -1,6 +1,6 @@
 ### What's up, I'm Aux.
 
-I'm currently a senior studying Data Science & Political Science at Boston University.
+I'm a postgrad Boston University student working as a Software Engineering in Austin, TX.
 <p>
   Talk to me about Machine Learning, Data Science, and Philosophy!
 </p>
